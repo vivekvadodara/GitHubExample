@@ -16,6 +16,7 @@ class GameScene: SKScene {
     
     override func didMove(to view: SKView) {
         //my comment
+        //bugfix comment
         
        
     }
